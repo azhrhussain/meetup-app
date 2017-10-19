@@ -30,7 +30,7 @@ Remote repo
 
   git add README.md
 
-		git remote add origin https://github.com/azhrhussain/meetup-app.git
+		git remote add origin https://....git
 
 		git push -u origin master
 
